@@ -1,6 +1,12 @@
 # flutter_googledocs
 
-A new Flutter project.
+- Responsive Cross Platform Google Docs app
+- Using Flutter & Node.js
+- Google Authentication WITHOUT Firebase, keeping the users logged in,
+- creating new documents, viewing the list of documents created by user, updating the title of the document, sharing link of the document, adding a rich text editor, collaboratively editing with as many users as you want and creating responsive design. 
+- We will be using Flutter, Node, Express, Socket, MongoDB and Riverpod. 
+
+Flutter Version: 3.3
 
 ## Getting Started
 
